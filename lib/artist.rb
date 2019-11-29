@@ -23,6 +23,4 @@ class Artist
   end
 end
 
-    © 2019 GitHub, Inc.
-    Terms
-    Privac
+   
